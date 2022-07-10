@@ -1,4 +1,4 @@
-# 🚀 [ACM MM 2022] AKU: Action Knowledge Understanding (AKU) framework
+# 🚀 [ACM MM 2022] AKU: Action Knowledge Understanding framework
 This repo is the official implementation of "Visual Knowledge Graph for Human Action Reasoning in Videos" 
 
 The codes and models will be released.
