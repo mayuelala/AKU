@@ -1,9 +1,17 @@
 # 🚀 [ACM MM  Oral  2022] AKU: Action Knowledge Understanding framework
+<div align="center">
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/yaoyao-liu/class-incremental-learning/blob/master/LICENSE)[![Python](https://img.shields.io/badge/python-3.8-blue.svg?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/pytorch-1.8-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)[![CIL](https://img.shields.io/badge/ClassIncrementalLearning-SOTA-success??style=for-the-badge&logo=appveyor)](https://paperswithcode.com/task/incremental-learning)
+## **AKU**: Action Knowledge Understanding framework
 
-This repo is the official implementation of "Visual Knowledge Graph for Human Action Reasoning in Videos" 
-The codes and models will be released.
+<a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
+[![Conference](https://img.shields.io/badge/ACM%20MM-2022-orange)](https://2022.acmmm.org/)
+[![License](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/nku-shengzheliu/SER30K/blob/main/LICENSE)
+
+</div>
+
+This is the official repository of our ACM Multimedia 2022 Work.
+**Kinetic dataset** and pytorch training/validation code for **Visual Knowledge Graph for Human Action Reasoning in Videos**.
+
 
 
 # 🏚️ Introduction
