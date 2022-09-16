@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🚀 [ACM MM  2022  Oral] **AKU**: Action Knowledge Understanding framework
+## 🚀 [ACM MM  2022  Oral  ] **AKU**: Action Knowledge Understanding framework
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 [![Conference](https://img.shields.io/badge/ACM%20MM-2022-orange)](https://2022.acmmm.org/)
